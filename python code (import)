@@ -6,3 +6,8 @@ import random as rnd
 # visualization
 import seaborn as sns
 import matplotlib.pyplot as plt
+
+# stock
+import lxml
+import yfinance as yf
+from yahoofinancials import YahooFinancials
