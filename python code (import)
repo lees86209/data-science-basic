@@ -14,6 +14,20 @@ import lxml
 import yfinance as yf
 from yahoofinancials import YahooFinancials
 
+"""
+stock = yf.Ticker('STOCK_NAME')
+stockprice = stock.history(start = '2010-01-01', end = '2020-03-06')
+stock.financials
+stock.info
+stock.balance_sheet
+stock.history
+tickers = 'STOCK_NAME'
+yahoo_financials = YahooFinancials(tickers)
+data = yahoo_financials.get_historical_price_data(start_date='2010-01-01', 
+                                                  end_date='2019-12-31', 
+                                                  time_interval='weekly')
+"""
+
 # machine learning
 from sklearn.linear_model import LogisticRegression
 from sklearn.svm import SVC, LinearSVC
