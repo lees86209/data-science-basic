@@ -50,11 +50,24 @@ from sklearn.linear_model import Perceptron
 from sklearn.linear_model import SGDClassifier
 from sklearn.tree import DecisionTreeClassifier
 
+"""
+# creat own function
+def square(value):
+  new_value = value ** 2
+  return new_value
 
-# while loop
+num = square(4)
+#num = 16
+"""
+
+"""
+while loop
+"""
+
 # if - elif - else
 if abcd
   1234
 elif abcd
   1234
 else abcd
+
