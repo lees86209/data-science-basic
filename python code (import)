@@ -49,31 +49,3 @@ from sklearn.naive_bayes import GaussianNB
 from sklearn.linear_model import Perceptron
 from sklearn.linear_model import SGDClassifier
 from sklearn.tree import DecisionTreeClassifier
-
-""""""
-# creat own function
-def square(value):
-  new_value = value ** 2
-  return new_value
-
-num = square(4)
-#num = 16
-""""""
-""""""
-#creat own function
-Xfunction = lambda x, y: x ** y
-Xfunction(2,3)
-# 8
-""""""
-
-"""
-while loop
-"""
-
-# if - elif - else
-if abcd
-  1234
-elif abcd
-  1234
-else abcd
-
