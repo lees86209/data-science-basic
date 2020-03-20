@@ -1,1 +1,28 @@
-# data-science-basic
+# creat own function
+# def
+def square(value):
+  new_value = value ** 2
+  return new_value
+
+num = square(4)
+=> num = 16
+
+
+#creat own function
+# lambda
+
+Xfunction = lambda x, y: x ** y
+Xfunction(2,3)
+=> 8
+
+
+
+#while loop
+# if - elif - else
+
+if abcd
+  1234
+elif abcd
+  1234
+else abcd
+
