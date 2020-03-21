@@ -29,6 +29,10 @@ else abcd
 
 # for - in
 
-for letter in DataScience
+for letter in "DataScience":
   print(letter)
-# DataScience (up to down)
+# D a t a S c i e n c e (up to down)
+
+for i in range(4):
+  print(i)
+# 0 1 2 3 (up to down)
