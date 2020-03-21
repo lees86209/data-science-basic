@@ -26,3 +26,9 @@ elif abcd
   1234
 else abcd
 
+
+# for - in
+
+for letter in DataScience
+  print(letter)
+# DataScience (up to down)
